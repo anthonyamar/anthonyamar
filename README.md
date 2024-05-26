@@ -44,7 +44,8 @@
 <br>
 
 ## Want to work with me? We can connect together to make some magic ☕️
-[![@anthonyamar](https://img.icons8.com/fluency/48/000000/linkedin.png "@anthonyamar")](https://www.linkedin.com/in/anthonyamar/) [![hello@anthonyamar.fr](https://img.icons8.com/fluency/48/000000/apple-mail.png "mailto:hello@anthonyamar.fr")](hello@anthonyamar.fr)
+[![@anthonyamar](https://img.icons8.com/fluency/48/000000/linkedin.png "@anthonyamar")](https://www.linkedin.com/in/anthonyamar/) 
+<a href="mailto:hello@anthonyamar.fr"><img img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"/></a>
 
 <br>
 
