@@ -43,7 +43,7 @@
 
 <br>
 
-## Connect with me ☕️ :
+## Want to work with me? We can connect together to make some magic ☕️ :
 
 <br>
 
