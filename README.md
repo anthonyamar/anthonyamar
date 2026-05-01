@@ -14,13 +14,14 @@
 <br>
 
 🛠️ My main stack: 
-- Ruby 3 and Rails 7.
+- Ruby 4 and Rails 8.
 - TailwindCSS, ViewComponent, 
 - Turbo, Stimulus JS.
 - Minitest, Yarn, Sidekiq.
-- Heroku, Redis. 
+- Coolify, Docker, Redis. 
 
 😌 Other things I'm good at:
+- AI engineering: Agentic workflows, harness engineering, company's productivity
 - IoT things: Raspberry Pi, Home Assistant, smart objects and APIs.
 - Marketing Engineering and automations (n8n).
 - Stripe ecosystem (payment, billing, identity, connect...).
@@ -28,13 +29,9 @@
 - Headless CMS, Wordpress and other no-code website builders.
 - Data sciences, especially collection, manipulation and enrichment.
 
-👷 Things I'm learning:
-- Turbo Native for cross platform mobile app using Rails.
-- React and NextJS.
-- Local LLMs.
-
 🏢 Industries I can work for: 
 - Music and entertainment.
+- Sovereign industries (strategic industry, military, nuclear)
 - IoT, consumer smart objects.
 - Real estate and smart buildings.
 - Geo-based websites, like Airbnb, Lonely Planet, Booking...
